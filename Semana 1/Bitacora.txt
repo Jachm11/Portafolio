@@ -2,3 +2,7 @@
 Se realizan actividades introductorias para el afianzamiento de los 
 estudiantes en el grupo y con el profesor. Ademas se presemta el
 programa de curso. 
+
+-Viernes 26 de Julio
+Se comienza con el tema de programacion orientada a objetos. Se definen
+algunos conceptos y se realiza discucion de los mismos.
