@@ -1,0 +1,3 @@
+-Miercoles 7 de Agosto
+Se realiza una actividad con legos para reforzar los conceptos de POO
+Y se comienza con el tema de diagramas de clases y patrones de diseño 
