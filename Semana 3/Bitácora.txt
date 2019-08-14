@@ -1,3 +1,8 @@
 -Miercoles 7 de Agosto
 Se realiza una actividad con legos para reforzar los conceptos de POO
-Y se comienza con el tema de diagramas de clases y patrones de diseño 
+Y se comienza con el tema de diagramas de clases y patrones de diseño
+
+-Viernes 
+Se realiza una actividad mendiante el programa Kahoot para reforzar los
+contenidos vistos en clase, y se continua con el tema de diagramas de
+clases y patrones de diseño, enfocado mas especificamente en UML
