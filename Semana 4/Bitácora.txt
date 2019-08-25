@@ -1,0 +1,9 @@
+-Miercoles 14 de Agosto
+Se hace un breve repaso de lo visto la clase anterior y se comienza 
+con el tema de Patrones de diseño 
+
+-Viernes 16 de Agosto
+Se realiza el primer quiz. Y se comienza a estudiar las categorias dentro
+de los patrones de diseño, se hace una pequeña actividad introductoria 
+a nuevos conceptos. Y se asigna una presentacion pequeña con relacion
+a dichos conceptos

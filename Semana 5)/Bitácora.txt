@@ -1,0 +1,10 @@
+-Miercoles 21 de Agosto
+Se comienza con las presentaciones asiganadas la semana anterior. El
+profesor corrige tanto aspectos de contenido como de forma en las presen
+taciones, tambien retoma los temas presentados para dar mayor profundidad
+al contenido.
+
+-Viernes 23 de Agosto 
+Se realiza el segundo quiz. Se da la entraga del primer quiz (96.6).
+Y se comienza con el tema de Estructuras de Datos Lineales, especificamente
+los ADT. 
